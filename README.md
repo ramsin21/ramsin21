@@ -1,6 +1,6 @@
 # ramsin21![logo](https://github.com/ramsin21/ramsin21/blob/main/1.jpg)
 <h1 align="center">Hi 👋, I'm ramsin</h1>
-<h3 align="center">I am a computer engineering student from Iran. </h3>
+<h3 align="center">I'm a computer engineering student from Iran. </h3>
 
 <img align="right" alt="ramsin21" width = "400" src ="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
